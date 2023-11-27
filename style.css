@@ -47,15 +47,18 @@ body {
 }
 
 #About-Me-Picture {
-
+    max-width: 35%;
+    height:auto;
 }
 
 #My-Projects-Picture {
-
+    max-width: 35%;
+    height:auto;
 }
 
 #Contact-Me-Picture {
-    
+    max-width: 35%;
+    height:auto;
 }
 
 #about-me {
