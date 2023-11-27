@@ -4,7 +4,9 @@ body {
     color: darkslategrey;
   }
 
-img {
-    max-width: 100%;
+#Profile-Picture {
+    max-width: 200px;
+    width: 100%;
     height: auto;
+    border-radius: 100%;
 }
