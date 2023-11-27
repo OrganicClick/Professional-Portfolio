@@ -1,3 +1,7 @@
+* {
+    background-image: linear-gradient(to right, lightblue, rgb(49, 145, 177))
+}
+
 body {
     font-family: Helvetica;
     text-align: center;
@@ -5,7 +9,6 @@ body {
   }
 
 .header {
-    background-color: #333;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -16,6 +19,7 @@ body {
     width: 100%;
     height: auto;
     border-radius: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 #About-Me-Picture {
