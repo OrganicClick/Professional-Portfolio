@@ -55,5 +55,20 @@ body {
 }
 
 #Contact-Me-Picture {
+    
+}
 
+#about-me {
+    max-width: 100%;;
+    height:auto;
+}
+
+#my-projects {
+    max-width: 100%;;
+    height:auto;
+}
+
+#contact-me {
+    max-width: 100%;;
+    height:auto;
 }
