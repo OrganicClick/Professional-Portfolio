@@ -4,9 +4,28 @@ body {
     color: darkslategrey;
   }
 
+.header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
 #Profile-Picture {
     max-width: 200px;
     width: 100%;
     height: auto;
     border-radius: 100%;
+}
+
+#About-Me-Picture {
+
+}
+
+#My-Projects-Picture {
+
+}
+
+#Contact-Me-Picture {
+
 }
