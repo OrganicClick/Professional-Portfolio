@@ -1,4 +1,10 @@
-* {
+body {
+    font-family: Helvetica;
     text-align: center;
     color: darkslategrey;
   }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
