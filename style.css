@@ -9,9 +9,27 @@ body {
   }
 
  nav ul {
+    display:flex;
+    justify-content: center;
     list-style: none;
     margin: 0;
     padding: 0;
+    background-color: aliceblue;
+  }
+
+  nav li {
+    padding-right: 10px;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: aliceblue;
+  }
+
+  nav a:hover {
+    background-color: white;
   }
 
 .header {
