@@ -44,3 +44,15 @@ Referenced for styling nav element
 
 Referenced for hover selector in CSS
 	https://www.w3schools.com/cssref/sel_hover.php
+
+Sourced Rock, Paper, Scissors Image photo
+	https://www.photosforclass.com/search/rock-paper-scissors
+
+Referenced for utilizing container in css styling
+	https://developer.mozilla.org/en-US/docs/Web/CSS/@container
+
+Referenced to learn and use about background-size effectively for CSS
+	https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+
+Referenced to learn how to make images into clickable links
+	https://stackoverflow.com/questions/42051528/how-do-i-make-an-image-clickable
