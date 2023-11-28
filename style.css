@@ -1,12 +1,11 @@
-* {
-    background-image: linear-gradient(to right, lightblue, rgb(49, 145, 177))
-}
 
 body {
     font-family: Helvetica;
     text-align: center;
     color: black;
     margin: 0;
+    background-image: linear-gradient(to right, lightblue, rgb(49, 145, 177));
+    background-size: cover;
   }
 
   .container {
