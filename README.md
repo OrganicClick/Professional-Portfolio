@@ -1,6 +1,12 @@
 # Professional-Portfolio
 Module 02 Advanced CSS Challenge, Professional Portfolio
 
+Link to Deployed Site: https://organicclick.github.io/Professional-Portfolio/
+
+Description: This is website is a mock-up of a professional portfolio that I intend to improve and add to over time.
+
+Screenshot(s): ![First Section of Professional Portfolio](<Professional Portfolio Screenshot 1.png>) ![Second Section of Professional Portfolio](<Professional Portfolio Screenshot 2.png>) ![Third Section of Professional Portfolio](<Professional Portfolio Screenshot 3.png>)
+
 Please find below a list of the resources that I've used a long with notes that I've taken from our lectures:
 
 Referenced for Example of HTML Layout/Divisions
