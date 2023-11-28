@@ -47,7 +47,7 @@ body {
 }
 
 #About-Me-Picture {
-    max-width: 35%;
+    max-width: 30%;
     height:auto;
 }
 
@@ -56,23 +56,28 @@ body {
     height:auto;
 }
 
+#My-Second-Picture {
+    max-width: 20%;
+    height: auto;
+}
+
 #Contact-Me-Picture {
-    max-width: 35%;
+    max-width: 30%;
     height:auto;
 }
 
 #about-me {
-    max-width: 100%;;
+    max-width: 100%;
     height:auto;
 }
 
 #my-projects {
-    max-width: 100%;;
+    max-width: 100%;
     height:auto;
 }
 
 #contact-me {
-    max-width: 100%;;
+    max-width: 100%;
     height:auto;
 }
 
